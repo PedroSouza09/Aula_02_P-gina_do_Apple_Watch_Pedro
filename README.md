@@ -6,7 +6,7 @@
 
 Projeto em desenvolvimento.
 
-[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/Aula_01_Aplicativo_de_Audiobook_Pedro/)
+[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/Aula_02_P-gina_do_Apple_Watch_Pedro/)
 
 ## 🛠 Tecnologias
 
@@ -15,8 +15,12 @@ Projeto em desenvolvimento.
 - Javascript
 - Git e Github
 
+
 ## Contato
 
 - [🔗 Linkedin](https://www.linkedin.com/in/fsouza-pedro/)
 
 - E-mail: . . .
+
+##
+  OBS: Nâo é responsivo
